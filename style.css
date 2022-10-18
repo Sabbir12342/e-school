@@ -35,3 +35,24 @@ header nav ul li{
 .top-paragraph div img{
     margin-top: -30px;
 }
+/* books */
+#books{
+    overflow: hidden;
+}
+#books img{
+
+    padding: 0px;
+    height: 85px;
+    width: 66px;
+}
+section{
+    margin-top: 50px;
+}
+
+h2{
+    font-weight: bolder;
+    text-align: center;
+}
+.card{
+    min-height: 250px;
+}
