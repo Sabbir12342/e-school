@@ -1,0 +1,37 @@
+body{
+    margin: 0;
+}
+header nav div a img{
+    height: 59px;
+    width: 198.07px;
+    margin-left: 212px;
+}
+header nav ul li{
+    padding: 0px 0px 0px 20px;
+}
+#top-section{
+    background-color: #f0fff0;
+    height: 576px;
+    width: 100%;
+}
+.nav{
+    margin-right: 135px;
+}
+#sign-in{
+    border-start-end-radius: 20px;
+    border-end-end-radius: 20px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    background-color: #21B573;
+    padding: 8px 20px;
+    text-align: justify;
+    border: none;
+    color: white;
+}
+.top-paragraph{
+    margin-left: 212px;
+    margin-top: 118px;
+}
+.top-paragraph div img{
+    margin-top: -30px;
+}
